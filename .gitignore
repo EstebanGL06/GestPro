@@ -1,0 +1,10 @@
+# Configuración local y secretos
+config.php
+.env
+
+# Dependencias y archivos del sistema
+vendor/
+PHPMailer/
+.DS_Store
+Thumbs.db
+*.log
