@@ -1,6 +1,6 @@
-# GestPro — Sistema de Facturación adaptado a Veri*factu
+# GestPro — Sistema de Facturación adaptado a Verifactu
 
-Aplicación web full stack orientada a autónomos y pequeñas empresas para la gestión de clientes, emisión y consulta de facturas en PDF y trazabilidad de registros conforme a los requisitos técnicos del reglamento **Veri*factu**.
+Aplicación web full stack orientada a autónomos y pequeñas empresas para la gestión de clientes, emisión y consulta de facturas en PDF y trazabilidad de registros conforme a los requisitos técnicos del reglamento **Verifactu**.
 
 ## Funcionalidades principales
 - **Autenticación y roles:** Registro de usuarios con envío de correo de bienvenida (PHPMailer), inicio de sesión seguro (`password_hash` / `password_verify`) y separación de permisos entre **Cliente** y **Administrador**.
